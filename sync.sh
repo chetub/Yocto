@@ -1,5 +1,3 @@
-#!/bin/bash
-
 rm -rf yocto
 mkdir -p yocto
 cd yocto
